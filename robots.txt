@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-3wh174.cingbet138.site/sitemap.xml
